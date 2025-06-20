@@ -144,4 +144,5 @@ This expanded dataset is known as QM7b<sup> X </sup>. The anionic, cationic, and
 ## References
 
 [1] https://chemrxiv.org/engage/chemrxiv/article-details/64160d85aad2a62ca1f937f6
+
 [2] https://pubs.aip.org/aip/jcp/article/158/21/214116/2893947/Matrix-of-orthogonalized-atomic-orbital
